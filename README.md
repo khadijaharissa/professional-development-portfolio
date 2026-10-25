@@ -1,6 +1,6 @@
 # professional-development-portfolio
 
-# get to know me!
+## get to know me!
 ## academic background:
 Hello there! I am Khadijah Arissa, a first-year student currently pursuing my Bachelor in Computer Science specializing Computer & Networks Security at Universiti Teknologi Malaysia (UTM). I completed my Foundation in Physical Science at UTM Kuala Lumpur, which is where I first picked up programming using C++. 
 
